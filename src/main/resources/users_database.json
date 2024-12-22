@@ -1,0 +1,106 @@
+{
+  "1":{
+    "id": 1,
+    "name": "Roger Lee",
+    "email": "jovan@example.com",
+    "phone": "+49 176 14890478",
+    "age": 32,
+    "semester": 1,
+    "courseRegistered": {
+      "1": "Algorithms and Computing Theory",
+      "2": "Database Management Systems",
+      "3": "Technology Management"
+    }
+  },
+"2":  {
+    "id": 2,
+    "name": "Novak Samuals",
+    "email": "simu@pace.com",
+    "phone": "+1 832 456 4567",
+    "age": 24,
+    "semester": 2,
+    "courseRegistered": {
+      "1": "Game Programming",
+      "2": "Database Management Systems",
+      "3": "Human Computer Interaction"
+    }
+  },
+"3":  {
+    "id": 3,
+    "name": "Kate Miller",
+    "email": "kate@pace.edu.com",
+    "phone": "+1 832 756 6008",
+    "age": 22,
+    "semester": 1,
+    "courseRegistered": {
+      "1": "Internet Computing",
+      "2": "Business Analytics",
+      "3": "Technology Management"
+    }
+  },
+"4":  {
+    "id": 4,
+    "name": "Joey Tribbiani",
+    "email": "joey@pace.edu.com",
+    "phone": "+1 832 222 4005",
+    "age": 36,
+    "semester": 1,
+    "courseRegistered": {
+      "1": "Internet Computing",
+      "2": "Machine Learning",
+      "3": "Technology Management"
+    }
+  },
+"5":  {
+    "id": 5,
+    "name": "Ashley Graham",
+    "email": "ashley@pace.edu.com",
+    "phone": "+1 919 756 6005",
+    "age": 29,
+    "semester": 3,
+    "courseRegistered": {
+      "1": "Business Analytics",
+      "2": "Database Management Systems",
+      "3": "Technology Management"
+    }
+  },
+  "6":{
+    "id": 6,
+    "name": "Karly Kloss",
+    "email": "karly@pace.edu.com",
+    "phone": "+1 919 234 6004",
+    "age": 25,
+    "semester": 1,
+    "courseRegistered": {
+      "1": "Introduction to Data Science",
+      "2": "Application Development with C#",
+      "3": "Computer Systems and Concepts"
+    }
+  },
+  "7":{
+    "id": 7,
+    "name": "Tom Cruise",
+    "email": "tom@ymail.com",
+    "phone": "+1 919 657 8998",
+    "age": 27,
+    "semester": 4,
+    "courseRegistered": {
+      "1": "Introduction to Data Science",
+      "2": "Introduction to Human Computer Interaction",
+      "3": "Game Programming"
+    }
+  },
+  "8":{
+    "id": 8,
+    "name": "George Bridgerton",
+    "email": "george@gmail.com",
+    "phone": "+1 919 435 8992",
+    "age": 24,
+    "semester": 4,
+    "courseRegistered": {
+      "1": "Capstone Project",
+      "2": "Introduction to Foundational Analytics",
+      "3": "Algorithms and Computing Theory"
+    }
+  }
+}
